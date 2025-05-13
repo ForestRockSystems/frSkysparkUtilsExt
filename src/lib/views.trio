@@ -1,0 +1,17 @@
+//
+// Copyright (c) 2025, ForestRock
+// All Rights Reserved
+//
+// History:
+//   13 May 25   Nurkanat Aimakov   Creation
+//
+
+--------------------------------------------------------------------------
+-- See https://skyfoundry.com/doc/docFresco/Views
+-- view: "frSkysparkUtilsTestView"
+-- dis: "FrSkysparkUtils Test View"
+-- appName: "frSkysparkUtils"
+-- src:
+--   view: {inherit: "table"}
+--   data: {expr:"readAll(site)"}
+--------------------------------------------------------------------------

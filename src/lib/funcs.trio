@@ -1,0 +1,19 @@
+//
+// Copyright (c) 2025, ForestRock
+// All Rights Reserved
+//
+// History:
+//   13 May 25   Nurkanat Aimakov   Creation
+//
+
+--------------------------------------------------------------------------
+-- See https://skyfoundry.com/doc/docSkySpark/Exts#axonFuncs
+-- name:frSkysparkUtilsTestAxon
+-- func
+-- doc:
+--  Test stub function
+-- src:
+--  () => do
+--    "Test frSkysparkUtils Axon function"
+--  end
+--------------------------------------------------------------------------

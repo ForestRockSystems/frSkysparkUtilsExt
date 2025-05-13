@@ -30,7 +30,8 @@ class Build : BuildPod
                "haystack 3.1",
                "folio 3.1",
                "axon 3.1",
-               "skyarcd 3.1"]
+               "skyarcd 3.1",
+               "hx 0+",]
     srcDirs = [`fan/`]
     resDirs = [`locale/`,
                `lib/`]

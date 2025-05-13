@@ -7,6 +7,7 @@
 //
 
 using haystack
+using hx
 using axon
 
 **
@@ -21,5 +22,9 @@ const class FrSkysparkUtilsLib
   static Str frSkysparkUtilsTestFan()
   {
     "Test frSkysparkUtils Fantom function"
+  }
+  @NoDoc @Axon 
+  static Void runCommand(Str[] argsStr) {
+    Process(argsStr).run.join
   }
 }
